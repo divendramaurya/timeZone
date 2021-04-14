@@ -1,6 +1,6 @@
 {
   "name": "timezone",
-  "homepage": "http://divendramaurya.github.io/timeZone",
+  "homepage": "http://divendramaurya.github.io/timezone", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {

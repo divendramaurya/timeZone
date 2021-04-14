@@ -10,7 +10,6 @@ function App() {
   const [selectedzone ,setselectedzone] = useState([]); 
   const [Zones ,setzones] = useState([]);
   const [flag, setFlag] = useState(false);
-
   const selectref = useRef("");
 
  
