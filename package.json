@@ -1,6 +1,6 @@
 {
   "name": "timezone",
-  "homepage": "http://divendramaurya.github.io/timezone", 
+  "homepage": "http://divendramaurya.github.io/timezone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^12.8.3",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
+    "date-fns": "^2.21.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
